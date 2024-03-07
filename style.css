@@ -49,7 +49,7 @@ p {
 }
 
 .width-measurement {
-  top: 1.2in;
+  top: 2.9in;
   left: calc(1in + (18in / 2) - 60px);
   position: absolute;
 
@@ -65,3 +65,12 @@ p {
   left: 18in;
   transform: rotate(90deg);
 }
+
+.image-info {
+  margin-bottom: 1rem;
+}
+
+.image-info p {
+  font-size: 1.5rem;
+}
+
