@@ -49,7 +49,7 @@ p {
 }
 
 .width-measurement {
-  top: 2.9in;
+  top: 2.7in;
   left: calc(1in + (18in / 2) - 60px);
   position: absolute;
 
