@@ -3,7 +3,7 @@
   --image-size: 3in;
 }
 
-.container {
+.picture-frame {
   border: 1in solid black;
   width: 18in;
   height: 24in;
@@ -40,9 +40,28 @@ img {
   max-height: var(--image-size);
   border: 3px solid black;
 }
+
 p {
   display: block;
   margin: 0;
   font-family: 'Arial';
   font-size: 1.25rem;
+}
+
+.width-measurement {
+  top: 1.2in;
+  left: calc(1in + (18in / 2) - 60px);
+  position: absolute;
+
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.height-measurement {
+  font-size: 2rem;
+  position: absolute;
+  top: calc(60px + 1in + (24in / 2));
+  left: 18in;
+  transform: rotate(90deg);
 }
