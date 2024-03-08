@@ -1,0 +1,25 @@
+query; zoom; city; location_code; year; output_path
+344 3rd ave manhattan nyc; 1100; Manhattan; Ny; 2018; imgs/new_york.png
+miami florida; 1100; Miami; Fl; 2018; imgs/miami.png
+la jolla san diego; 1100; La Jolla; Ca; 2018; imgs/la_jolla.png
+san fransisco PARK HERE; 1100; San Fransisco; Ca; 2018; imgs/san_fransisco.png
+nice france; 1100; Nice; Fr; 2019; imgs/nice.png
+florence italy; 1100; Florence; It; 2019; imgs/florence.png
+rome italy; 1100; Rome; It; 2019; imgs/rome.png
+73 boyd ave jersey city nj; 1100; Jersey City; Nj; 2019; imgs/jersey_city.png
+las vegas; 1100; Las Vegas; Nv; 2020; imgs/las_vegas.png
+857 grand st brooklyn ny; 1100; Brooklyn; Ny; 2021; imgs/brooklyn.png
+Stowe vermont; 1100; Vermont; Vt; 2021; imgs/stowe.png
+Copenhagen denmark; 1100; Copenhagen; Dk; 2022; imgs/copenhagen.png
+Lisbon portugal; 1100; Lisbon; Pt; 2022; imgs/lisbon.png
+Port portugal; 1100; Portugal; Pt; 2022; imgs/porto.png
+Blanco texas town hall; 1100; Blanco; Tx; 2022; imgs/blanco.png
+Sapporo japan; 1100; Sapporo; Jp; 2023; imgs/sapporo.png
+Rusutsu japan; 1100; Rusutsu; Jp; 2023; imgs/rusutsu.png
+Tokyo japan; 1100; Tokyo; Jp; 2023; imgs/tokyo.png
+Osaka japan; 1100; Osaka; Jp; 2023; imgs/osaka.png
+nara fijuku or something like that; 1100; Nara; Jp; 2023; imgs/nara.png
+Bacolod philippines; 1100; Bacolod; Ph; 2024; imgs/bacolod.png
+Bago city banbayan park; 1100; Bago City; Ph; 2024; imgs/bago_city.png
+El nido philippines; 1100; El Nido; Ph; 2024; imgs/el_nido.png
+Pagosa springs colorado; 1100; Pagosa Springs; Co; 2024; imgs/pagosa_springs.png
